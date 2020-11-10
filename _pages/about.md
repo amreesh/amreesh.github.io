@@ -12,9 +12,9 @@ profile:
     <p>Ebene, Cybercity</p>
     <p>11th Floor Standard Chartered Tower</p>
     
+social: true
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently leading the <a href="#https://afrinic.net/research">Research and Innovation department</a> at AFRINIC. My areas of interest are Interdomain routing, network security, Internet measurements, content delivery and QoE, with a particular emphasis on African networks. I am a co-chair of the <a href="https://afrinic.net/committees/measurement-wg">AFRINIC Measurement Working Group</a>.
