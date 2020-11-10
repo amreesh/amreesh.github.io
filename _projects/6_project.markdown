@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: 6spots
+description: AFRINIC IPv6 portal
+img: /assets/img/6spots.png
+redirect: http://6spots.afrinic.net/
 importance: 4
 ---
 

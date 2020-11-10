@@ -1,38 +1,38 @@
 ---
 layout: page
-title: projects & studies
-permalink: /projects/
-description: Some cool projects I've worked on (or currently working on).
+title: talks
+permalink: /talks/
+description: Some of my talks
 nav: true
 ---
 
-<div class="projects grid">
+<div class="talks grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  {% assign sorted_talks = site.talks | sort: "importance" %}
+  {% for talk in sorted_talks %}
   <div class="grid-item">
-    {% if project.redirect %}
-    <a href="{{ project.redirect }}" target="_blank">
+    {% if talk.redirect %}
+    <a href="{{ talk.redirect }}" target="_blank">
     {% else %}
-    <a href="{{ project.url | relative_url }}">
+    <a href="{{ talk.url | relative_url }}">
     {% endif %}
       <div class="card hoverable">
-        {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
+        {% if talk.img %}
+        <img src="{{ talk.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
-            {% if project.github %}
+            {% if talk.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
                 <a href="{{ project.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
               </div>
-              {% if project.github_stars %}
+              {% if talk.github_stars %}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                 <i class="fas fa-star"></i>
-                <span id="{{ project.github_stars }}-stars"></span>
+                <span id="{{ talk.github_stars }}-stars"></span>
               </span>
               {% endif %}
             </div>

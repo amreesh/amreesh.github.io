@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: DNS Flag Day
+description: African DNS landscape
+img: /assets/img/flagday.png
+redirect: https://afrinic.net/20201001-dns-flag-day-2020
 importance: 3
 ---
 

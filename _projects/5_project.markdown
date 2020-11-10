@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: AIRRS
+description: African Internet Resources and Registry Statistics
+img: /assets/img/airrs.png
+redirect: https://airrs.afrinic.net
 importance: 3
 ---
 

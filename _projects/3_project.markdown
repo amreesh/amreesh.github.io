@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Latency study
+description: Characterizing latency between African countries
+img: /assets/img/foreign.png
+redirect: https://www.afrinic.net/blog/333-revealing-latency-clusters-in-africa
 importance: 3
 ---
 

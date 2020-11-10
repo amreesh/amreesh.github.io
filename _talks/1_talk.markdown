@@ -1,8 +1,9 @@
 ---
 layout: page
-title: WIDER
-description: World Internet Data ExploreR
-img: /assets/img/map_search.png
+title: AFPIF VPS #4
+description: IXP Traffic Behavior During the Pandemic in Africa
+img: /assets/img/afpif_vps4.png
+redirect: https://www.afpif.org/virtual-peering-series-africa/ixp-traffic-behavior-during-the-pandemic-in-africa/
 importance: 1
 ---
 
