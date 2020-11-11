@@ -6,7 +6,7 @@ description: A few of my writings.
 nav: true
 ---
 
-#Internet Measurements
+##Internet Measurements
 
 [Revealing latency clusters in Africa] 	(https://www.afrinic.net/blog/333-revealing-latency-clusters-in-africa)
 
@@ -20,7 +20,7 @@ nav: true
 
 [Workshop on Internet Measurements at AFRINIC-29] (https://www.afrinic.net/blog/413-workshop-on-internet-measurements-at-afrinic-29)
 
-#DNS
+##DNS
 [DNS Flag Day 2020] (https://afrinic.net/20201001-dns-flag-day-2020)
 
 [DNSSEC New Root Zone KSK appears on the DNS](https://www.afrinic.net/blog/265-dnssec-new-root-zone-ksk-appears-on-the-dns)
@@ -31,13 +31,13 @@ nav: true
 
 [Watch Out for the DNSSEC KSK Rollover this October] (https://www.afrinic.net/blog/357-11-october-2018-dnssec-ksk-rollover-flag-day)
 
-#RPKI
+##RPKI
 
 [RPKI Delta Protocol (RRDP) as a future replacement of rsync in RPKI] (https://www.afrinic.net/blog/495-rpki-delta-protocol-rrdp-as-a-future-replacement-of-rsync-in-rpki)																
 [RPKI v1.0 Engine Deactivation] (https://www.afrinic.net/blog/43-rpki-v1-0-engine-deactivation)							
 [RPKI: Moving towards an “All resources” trust anchor](https://www.afrinic.net/blog/287-rpki-moving-towards-an-all-resources-trust-anchor)												
 
-#Spam
+##Spam
 
 [Article on Spam from an INRM Perspective] (https://www.afrinic.net/blog/6-afrinic-publishes-an-article-on-spam-from-an-rir-perspective)
 											
