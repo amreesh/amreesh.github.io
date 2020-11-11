@@ -10,7 +10,7 @@ profile:
   address: >
     <p>11th Floor Standard Chartered Tower</p>
     <p>Ebene, Cybercity</p>
-    <p>11th Floor Standard Chartered Tower</p>
+    <p>Mauritius</p>
     
 social: true
 news: false  # includes a list of news items

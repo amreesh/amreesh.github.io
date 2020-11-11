@@ -1,8 +1,9 @@
 ---
 layout: page
-title: MIRA
-description: Measuring Internet Resilience in Africa
+title: AFRINIC Stats
+description: Statistics portal for AFRINIC
 img: /assets/img/africa-cable.png
+redirect: https://stats.afrinic.net
 importance: 2
 ---
 
