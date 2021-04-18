@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>11th Floor Standard Chartered Tower</p>
-    <p>Ebene, Cybercity</p>
-    <p>Mauritius</p>
+    <p>Get in touch!</p>
+    <p>phokeer_at_isoc_dot_org</p>
+    <p>Located in Mauritius</p>
     
 social: true
 news: false  # includes a list of news items
