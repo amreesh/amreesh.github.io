@@ -5,7 +5,9 @@ title: cv
 nav: true
 ---
 
-[Short version](https://amreesh.github.io/assets/pdf/aphokeer_cv_short.pdf)
+[Long version](../assets/pdf/aphokeer_cv.pdf)
 
-[Long version](https://amreesh.github.io/assets/pdf/aphokeer_cv.pdf)
+[Short version](../assets/pdf/aphokeer_cv_short.pdf)
+
+
 
