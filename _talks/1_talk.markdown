@@ -4,7 +4,7 @@ title: AFPIF VPS #4
 description: IXP Traffic Behavior During the Pandemic in Africa
 img: /assets/img/afpif_vps4.png
 redirect: https://www.afpif.org/virtual-peering-series-africa/ixp-traffic-behavior-during-the-pandemic-in-africa/
-importance: 1
+importance: 2
 ---
 
 <a href="https://wider.isoc.org.za" target="_blank">WIDER</a> is a data visualization portal intended to inform data journalists, network operators, regulators and other interested parties on the state of the Internet in a specific country or region. AFRINIC, Vanilla and ISOC-ZA worked on a preliminary proof-of-concept that incorporates APNIC measurement data.

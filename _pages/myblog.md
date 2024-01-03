@@ -3,7 +3,7 @@ layout: page
 permalink: /myblog/
 title: blog
 description: A few of my writings. 
-nav: true
+nav: false
 ---
 
 ## Internet Measurements

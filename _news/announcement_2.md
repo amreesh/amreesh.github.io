@@ -1,31 +1,20 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Attended the 10th Heidelberg Laureate Forum
+date: 2023-09-23 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Highlights of my experience at the 10th Heidelberg Laureate Forum.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The Heidelberg Laureate Forum (HLF) is a prestigious annual event that brings together young researchers and laureates in the fields of Computer Science and Mathematics. The laureates in attendance are individuals who have been recognized with some of the highest honors in these domains, including the ACM Turing Award for Computer Science and awards like the Fields Medal, Abel Prize, and Nevanlinna Award for Mathematics. These awards are a testament to the exceptional contributions made by these laureates in advancing their respective fields. In September 2023, the HLF welcomed 200 young researchers from 62 different countries, and I was fortunate enough to be among them.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+The week-long event was fully packed with workshops, talks, panel discussions, and various activities centered around the latest developments in the world of Computer Science and Mathematics. This year, one of the hottest topics of discussion was Generative AI and Large Language Models, a field that has witnessed explosive growth in recent years. The presence of laureates, many of whom were pioneers in this technology, provided a unique opportunity to gain insights into the implications of AI on society.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+One of the highlights of my experience at HLF was the opportunity to engage in conversations with these laureates, individuals who have made groundbreaking scientific contributions to their respective fields. Among the luminaries I had the pleasure of meeting was Vinton Cerf, often referred to as one of the “fathers of the Internet.” He is widely recognized for his role in the development of the TCP/IP protocol, which forms the backbone of the modern Internet. Interestingly, I had previously met Vint a decade ago when he visited Mauritius during my time at AFRINIC, an Internet registry organization.
 
-***
+![Father of the Internet](../../assets/img/vcerf-hlf-2023.jpg)
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Read my [full story](../../assets/pdf/2023-hlf-lemauricien-forum.pdf), published on Le Mauricien on 20 October 2023.

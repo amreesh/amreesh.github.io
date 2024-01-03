@@ -3,7 +3,7 @@ layout: page
 title: WIDER
 description: World Internet Data ExploreR
 img: /assets/img/map_search.png
-importance: 1
+importance: 2
 ---
 
 <a href="https://wider.isoc.org.za" target="_blank">WIDER</a> is a data visualization portal intended to inform data journalists, network operators, regulators and other interested parties on the state of the Internet in a specific country or region. AFRINIC, Vanilla and ISOC-ZA worked on a preliminary proof-of-concept that incorporates APNIC measurement data.

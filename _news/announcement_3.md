@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-10-23 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Co-organized the [2023 IMC Hackathon](https://pulse.internetsociety.org/blog/imc23-hackathon-on-network-interference-using-open-data) on Network Interference using Open Data

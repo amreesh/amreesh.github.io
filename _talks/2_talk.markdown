@@ -4,7 +4,7 @@ title: LINX Virtual Events
 description: Building a resilient Internet in Africa
 img: /assets/img/linx.jpg
 redirect: https://www.youtube.com/watch?v=B0zVIWlvxOs
-importance: 2
+importance: 3
 ---
 
 ##Amreesh Phokeer
